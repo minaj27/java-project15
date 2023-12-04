@@ -1,0 +1,13 @@
+button{
+    padding: 10px;
+    margin: 10px;
+    background-color: lightskyblue;
+    border: 3px solid chocolate;
+    border-radius: 10px;
+    font-weight: bold;
+}
+#nav{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+}
